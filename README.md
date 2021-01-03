@@ -1,4 +1,4 @@
-### Milk is pretty dope.
+### some guy who likes to build things with code, use writing to tell stories, and use his legs for running.
 
 <!--
 **philipstubbs13/philipstubbs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
