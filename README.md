@@ -8,7 +8,7 @@
 - ✏️ Ask me about technical writing.
 - ⚙️ I use: html, css, javascript, react, typescript, python, node.
 - 📫 How to reach me: philipstubbs13@gmail.com
-- ⚡ Fun fact: I have run 3 marathons.
+- ⚡ Fun fact: I run marathons.
 
 ---
 
