@@ -1,4 +1,12 @@
-### some guy who likes to build things with code, use writing to tell stories, and use his legs for running.
+# Hi there, I'm phil. 👋
+
+- 🌐 I build websites.
+- 🤖 I enjoy finding ways to automate things.
+- 🔬 I like to write tests for my code.
+- ✏️ Ask me about technical writing.
+- ⚙️ I use: html, cs, js, react, ts, python, node
+- 📫 How to reach me: philipstubbs13@gmail.com
+- ⚡ Fun fact: I have run 3 marathons.
 
 <!--
 **philipstubbs13/philipstubbs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
