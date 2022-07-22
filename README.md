@@ -24,7 +24,7 @@
 <a target="_blank" href="https://www.facebook.com/phil.stubbs.13/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a target="_blank" href="https://www.tiktok.com/thephilstubbs">
+<a target="_blank" href="https://www.tiktok.com/@thephilstubbs">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />
 </a>
 <a target="_blank" href="https://www.twitter.com/iamPhilStubbs">
