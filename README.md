@@ -1,11 +1,21 @@
 ### 🌎 Hello world, I'm phil. 👋
 
+http://www.philjstubbs.com/
+
 ---
+
+### Web Development and Data Engineering 👨‍💻
 
 I am a web developer with experience building websites and web applications. I enjoy working across the stack from
 front to back. I primarily use React, TypeScript, Python, Node, HTML, CSS, and JavaScript. But, I am a motivated, self-starter
 who is passionate about learning and investigating new, cutting-edge technologies. I also have a curiosity towards data
 engineering. Specifically, I am interested in collecting, managing, and transforming data into visualizations to tell stories.
+
+---
+
+### Technical Writing ✏️
+
+I have managed various technical documentation projects. Some of the types of technical documents I helped build include install guides, user guides, configuration guides, release notes, online help, and reference material. My experience includes software, hardware, and medical writing primarily using the DITA data model.
 
 ---
 
