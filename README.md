@@ -1,9 +1,13 @@
 ### 🌎 Hello world, I'm phil. 👋
 
+---
+
 I am a web developer with experience building websites and web applications. I enjoy working across the stack from
 front to back. I primarily use React, TypeScript, Python, Node, HTML, CSS, and JavaScript. But, I am a motivated, self-starter
 who is passionate about learning and investigating new, cutting-edge technologies. I also have a curiosity towards data
 engineering. Specifically, I am interested in collecting, managing, and transforming data into visualizations to tell stories.
+
+---
 
 - ☃️ Born, raised, and currently live in Minnesota.
 - 〽️ Graduated from University of Minnesota. Go Gophers!
