@@ -2,12 +2,6 @@
 
 http://www.philjstubbs.com/
 
----
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=philipstubbs13&show_icons=true&theme=tokyonight&hide=contribs)](https://github.com/philipstubbs13/github-readme-stats)
-
----
-
 ### Web Development and Data Engineering 👨‍💻
 
 I am a web developer with experience building websites and web applications. I enjoy working across the stack from
@@ -23,6 +17,8 @@ I have managed various technical documentation projects. Some of the types of te
 
 ---
 
+### Interesting Things About Me
+
 - ☃️ Born, raised, and currently live in Minnesota.
 - 〽️ Graduated from University of Minnesota. Go Gophers!
 - 🌐 I build websites.
@@ -32,6 +28,14 @@ I have managed various technical documentation projects. Some of the types of te
 - ⚙️ I use: html, css, javascript, react, typescript, python, node.
 - 📫 How to reach me: philipstubbs13@gmail.com
 - ⚡ Fun fact: I run marathons.
+
+---
+
+### Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=philipstubbs13&show_icons=true&theme=tokyonight&hide=contribs)](https://github.com/philipstubbs13/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipstubbs13)](https://github.com/philipstubbs13/github-readme-stats)
 
 ---
 
