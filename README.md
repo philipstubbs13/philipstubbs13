@@ -4,6 +4,10 @@ http://www.philjstubbs.com/
 
 ---
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=philipstubbs13&show_icons=true&theme=tokyonight&hide=contribs)](https://github.com/philipstubbs13/github-readme-stats)
+
+---
+
 ### Web Development and Data Engineering 👨‍💻
 
 I am a web developer with experience building websites and web applications. I enjoy working across the stack from
