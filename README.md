@@ -37,6 +37,8 @@ I have managed various technical documentation projects. Some of the types of te
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipstubbs13)](https://github.com/philipstubbs13/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=philipstubbs13)
+
 ---
 
 <a target="_blank" href="https://www.linkedin.com/in/philipjstubbs/">
