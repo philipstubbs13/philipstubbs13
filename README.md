@@ -27,6 +27,7 @@ I have managed various technical documentation projects. Some of the types of te
 - ✏️ Ask me about technical writing.
 - ⚙️ I use: html, css, javascript, react, typescript, python, node.
 - 📫 How to reach me: philipstubbs13@gmail.com
+- 🐶 In my free time, I hang out with my puppy named Friday.
 - ⚡ Fun fact: I run marathons.
 
 ---
