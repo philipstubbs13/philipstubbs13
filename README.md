@@ -2,35 +2,118 @@
 
 http://www.philjstubbs.com/
 
-### Web Development and Data Engineering 👨‍💻
+###  👨‍💻 Web Developer
 
-I am a web developer with experience building websites and web applications. I enjoy working across the stack from
-front to back. I primarily use React, TypeScript, Python, Node, HTML, CSS, and JavaScript. But, I am a motivated, self-starter
-who is passionate about learning and investigating new, cutting-edge technologies. I also have a curiosity towards data
-engineering. Specifically, I am interested in collecting, managing, and transforming data into visualizations to tell stories.
+I am a web developer with a passion for building dynamic, user-friendly web applications and exploring new technologies. I’m also curious about data engineering and how data can tell stories through engaging visualizations.
+
+```
+const aboutMe = {
+  name: "Phil Stubbs",
+  location: "Minnesota, USA",
+  job: "Web Developer",
+  favorite_tech_stack: ["Next.js", "TypeScript", "Storybook", "Tailwind", "Prisma", "Node.js", "MongoDB", "Jest",
+                       "Playwright", "React Testing Library"],
+  interests: ["Web Development", "UI Component Libraries", "Component Driven Development", "Test Driven Development",
+              "Data Engineering", "Automation"]
+};
+```
+
+---
+
+### 🔑 Key Projects
+
+```
+- project: "Runner Pulse"
+  description: "Advanced running analytics app built with Next.js."
+  highlights:
+    - "Track personal race results."
+    - "Discover upcoming races."
+    - "Create a running photo galllery."
+    - "Connect with fellow runners."
+  repo: https://github.com/philipstubbs13/runner-pulse
+
+- project: "Wistia Video Player"
+  description: "Custom video player component built using React and the Wistia Player API."
+  highlights:
+    - "Storybook documentation."
+    - "React and TypeScript."
+    - "Responsive design for various screen sizes."
+    - "Dynamic video loading."
+  repo: https://github.com/philipstubbs13/wistia-video-player
+
+- project: "Beat the Odds"
+  description: "A web app that breaks down down complex market data for NBA players."
+  highlights:
+    - "Filter NBA player data by position, stat type, and or market status."
+    - "Visualize player market data represented as a table."
+    - "Built using Next.js."
+  repo: https://github.com/philipstubbs13/swish-analytics-challenge
+```
 
 ---
 
-### Technical Writing ✏️
+### ✏️ Technical Writing
 
-I have managed various technical documentation projects. Some of the types of technical documents I helped build include install guides, user guides, configuration guides, release notes, online help, and reference material. My experience includes software, hardware, and medical writing primarily using the DITA data model.
+I’ve managed documentation for software, hardware, and medical industries, making technical concepts more accessible to users.
+
+```
+{
+  "technicalWriting": [
+    "Installation Guides",
+    "User Manuals",
+    "Configuration Guides",
+    "Release Notes",
+    "Online Help Systems"
+  ],
+  "specialization": "DITA data model",
+  "goal": "Simplify complex technical concepts."
+}
+```
 
 ---
 
-### Interesting Things About Me
+### Fun Facts
 
-- ☃️ Born, raised, and currently live in Minnesota.
-- 〽️ Graduated from University of Minnesota. Go Gophers!
-- 🌐 I build websites.
-- 🤖 I enjoy finding ways to automate things.
-- 🔬 I like to write tests for my code.
-- ✏️ Ask me about technical writing.
-- ⚙️ I use: html, css, javascript, react, typescript, python, node.
-- 📫 How to reach me: philipstubbs13@gmail.com
-- 🐶 In my free time, I hang out with my puppy named Friday.
-- ⚡ Fun fact: I run marathons.
+```
+fun_facts = [
+    "❄️ Born and raised in Minnesota",
+    "🎓 University of Minnesota Graduate",
+    "🌐 Building websites is my passion",
+    "🤖 Automating tasks is a hobby",
+    "🐶 I have a puppy named Friday",
+    "⚡ I run marathons"
+]
+```
+
+### ⚙️ Skils and Tools
+
+| **Frontend** | **Backend** | **Testing**           | **DevOps**    | **Design**  | **Data Visualization**
+|--------------|-------------|-----------------------|---------------|-------------|------------------------|
+| HTML         | Node.js     | Jest                  | Vercel        | Figma       | Python                 |
+| CSS          | Python      | Vitest                | AWS           | Storybook   | JavaScript             |
+| JavaScript   | TypeScript  | Cypress               | Google Cloud  |             | Tableau                |
+| React        | Go          | React Testing Library |               |             | D3.js                  |
+| TypeScript   | MongoDB     | Playwright            |               |             | AnyChart               |
+| Next.js      | Postgres    |                       |               |             | Recharts               |
+| Mobx         | MySQL       |                       |               |             | Chart.js               |
+| Redux        | Prisma      |                       |               |             | Flask                  |
+| Material UI  |             |                       |               |             |                        |
+| GraphQL      |             |                       |               |             |                        |
+| Tailwind     |             |                       |               |             |                        |
 
 ---
+
+### 📫 Connect with Me
+
+Feel free to reach out for collaborations, freelance work, or just to say hi! 😄
+
+```
+# Let's connect:
+Email: philipstubbs13@gmail.com
+Website: www.philjstubbs.com
+LinkedIn: linkedin.com/in/philstubbs
+GitHub: github.com/philstubbs
+```
 
 ### Stats
 
