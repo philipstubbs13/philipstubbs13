@@ -11,10 +11,10 @@ const aboutMe = {
   name: "Phil Stubbs",
   location: "Minnesota, USA",
   job: "Web Developer",
-  favorite_tech_stack: ["Next.js", "TypeScript", "Storybook", "Tailwind", "Prisma", "Node.js", "MongoDB", "Jest",
-                       "Playwright", "React Testing Library"],
-  interests: ["Web Development", "UI Component Libraries", "Component Driven Development", "Test Driven Development",
-              "Data Engineering", "Automation"]
+  favorite_tech_stack: ["Next.js", "TypeScript", "Storybook", "Tailwind", "Prisma",
+                        "Node.js", "MongoDB", "Jest", "Playwright", "React Testing Library"],
+  interests: ["Web Development", "UI Component Libraries", "Component Driven Development",
+              "Test Driven Development", "Data Engineering", "Automation"]
 };
 ```
 
@@ -111,8 +111,7 @@ Feel free to reach out for collaborations, freelance work, or just to say hi! ðŸ
 # Let's connect:
 Email: philipstubbs13@gmail.com
 Website: www.philjstubbs.com
-LinkedIn: linkedin.com/in/philstubbs
-GitHub: github.com/philstubbs
+LinkedIn: https://www.linkedin.com/in/philipjstubbs/
 ```
 
 ### Stats
